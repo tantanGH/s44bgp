@@ -23,8 +23,8 @@ Mercury-UNIT V3 以上 および PCM8PP
 
 動作確認は以下でのみ行なっています。
 
-- X68030 (25MHz) + 060turbo + ハイメモリ128MB + Mercury-UNIT V3 (実機)
-- XM6 Type G + X68030 (25MHz) + TS-6BE16 ハイメモリ16MB + TS16DRVp.X + Mercury-UNIT V3.5 (エミュレータ)
+- X68030 (25MHz) + 060turbo + ハイメモリ128MB + PCM8PP.X + Mercury-UNIT V3 (実機)
+- XM6 Type G + X68030 (25MHz) + TS-6BE16 ハイメモリ16MB + TS16DRVp.X + PCM8PP.X + Mercury-UNIT V3.5 (エミュレータ)
 
 おそらく Phantom-X + Kepler-X の環境でも動作すると思いますが、未確認です。無事に動作した場合はぜひお知らせください。
 
