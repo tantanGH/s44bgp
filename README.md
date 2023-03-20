@@ -11,7 +11,7 @@ KMD歌詞の簡易表示にも対応しています。
 
 本プログラムは Mercury-UNIT + ハイメモリ専用です。以下が必須になります。
 
-Mercury-UNIT V3 以上 および PCM8PP
+Mercury-UNIT V3 以上 および PCM8PP ドライバ
 
 - [PCM8PP.X](http://retropc.net/x68000/software/hardware/mercury/pcm8pp/)
 
