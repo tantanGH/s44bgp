@@ -85,7 +85,7 @@ S44BGP.X は最下段のファンクションキー表示行の一部にイン�
       -m    ... mono mode
 
 
-コマンドラインで再生対象とするPCMファイル名を指定して起動します。サポートしているのは .s44 (16bit big endian raw PCM 44.1kHz stereo)と .a44 (YM2608 ADPCM 44.1kHz stereo) 形式のみです。これら以外には対応していません。
+コマンドラインで再生対象とするPCMファイル名を指定して起動します。複数指定可能です。ただしサポートしているのは .s44 (16bit big endian raw PCM 44.1kHz stereo)と .a44 (YM2608 ADPCM 44.1kHz stereo) 形式のみです。これら以外には対応していません。
 
 必要に応じて NOZ氏の PCM3PCM.X などのツールで変換してください。
 
