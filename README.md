@@ -26,9 +26,10 @@ Mercury-UNIT V3 以上 および PCM8PP ドライバ
 - X68030 (25MHz) + 060turbo + ハイメモリ128MB + PCM8PP.X + Mercury-UNIT V3 (実機)
 - XM6 Type G + X68030 (25MHz) + TS-6BE16 ハイメモリ16MB + TS16DRVp.X + PCM8PP.X + Mercury-UNIT V3.5 (エミュレータ)
 
-また、以下での動作報告を頂いています。
+また、以下の実機での動作報告を頂いています。
 
-- X68000 + Phantom-X + PCM8PP.X + Mercury-UNIT V4 (満開版)
+- X68000XVI + Phantom-X 030モード + 060turbo互換ハイメモリ + TS16DRVp.X + PCM8PP.X + Mercury-UNIT V4 (満開版)
+- X68000PRO + Phantom-X 040モード + 060turbo互換ハイメモリ + TS16DRVp.X + PCM8PP.X + Mercury-UNIT V4 (満開版)
 
 ---
 
